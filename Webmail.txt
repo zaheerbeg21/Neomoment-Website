@@ -1,0 +1,135 @@
+Client Configuration settings for “sales@neomoment.org”.
+
+
+Mail Client Manual Settings
+---------------------------
+
+Secure SSL/TLS Settings (Recommended)
+
+Username:
+
+sales@neomoment.org
+
+Password:
+
+Use the email account’s password.
+
+Incoming Server:
+
+bh-70.webhostbox.net
+
+  * IMAP Port: 993
+
+  * POP3 Port: 995
+
+Outgoing Server:
+
+bh-70.webhostbox.net
+
+  * SMTP Port: 465
+
+IMAP, POP3, and SMTP require authentication.
+
+Non-SSL Settings (NOT Recommended)
+
+Username:
+
+sales@neomoment.org
+
+Password:
+
+Use the email account’s password.
+
+Incoming Server:
+
+mail.neomoment.org
+
+  * IMAP Port: 143
+
+  * POP3 Port: 110
+
+Outgoing Server:
+
+mail.neomoment.org
+
+  * SMTP Port: 587
+
+IMAP, POP3, and SMTP require authentication.
+
+
+Calendar & Contacts Manual Settings
+-----------------------------------
+
+Secure SSL/TLS Settings (Recommended).
+
+Username:
+
+sales@neomoment.org
+
+Password:
+
+Use the email account’s password.
+
+Server:
+
+https://bh-70.webhostbox.net:2080
+
+  * Port: 2080
+
+Full Calendar URL(s):
+
+  * Calendar:
+
+  * https://bh-70.webhostbox.net:2080/rpc/calendars/sales@neomoment.org/calendar:96604375-be0f-cca2-f195-e5d3186ea5d3
+
+Full Contact List URL(s):
+
+  * Address Book:
+
+  * https://bh-70.webhostbox.net:2080/rpc/addressbooks/sales@neomoment.org/contacts~baa02a0b-d53d-f548-13c6-3dd6641aeb4a
+
+Non-SSL Settings (NOT Recommended).
+
+Username:
+
+sales@neomoment.org
+
+Password:
+
+Use the email account’s password.
+
+Server:
+
+http://mail.neomoment.org:2079
+
+  * Port: 2079
+
+Full Calendar URL(s):
+
+  * Calendar:
+
+  * http://mail.neomoment.org:2079/rpc/calendars/sales@neomoment.org/calendar:96604375-be0f-cca2-f195-e5d3186ea5d3
+
+Full Contact List URL(s):
+
+  * Address Book:
+
+  * http://mail.neomoment.org:2079/rpc/addressbooks/sales@neomoment.org/contacts~baa02a0b-d53d-f548-13c6-3dd6641aeb4a
+
+A .mobileconfig file for use with iOS for iPhone/iPad/iPod and MacOS® Mail.app® for Mountain Lion (10.8+) is attached to this message.
+
+This notice is the result of a request made by a computer with the IP address of “42.106.205.193” through the “cpanel” service on the server.
+
+The remote computer’s location appears to be: India (IN).
+
+The remote computer’s IP address is assigned to the provider: “Vodafone India Ltd. Formerly Hutchison Max Telecom Limited Hutchison Max Telecom Limited”
+
+The provider supplied the following remarks about the IP address allocation: “-------------------------------------------------------- To report network abuse, please contact mnt-irt For troubleshooting, please contact tech-c and admin-c Report invalid contact via www.apnic.net/invalidcontact --------------------------------------------------------”
+
+The system generated this notice on Thursday, February 2, 2023 at 6:27:46 AM UTC.
+
+Do not reply to this automated message.
+
+cP
+
+Copyright© 2023 cPanel, L.L.C.
